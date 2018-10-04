@@ -27,6 +27,13 @@
 
 Графический интерфейс пользователя представлен в виде mockup иллюстраций.
 
+| Краткое описание | Mockup иллюстрация |
+|:---|:---|
+|Информация об всех расходах и доступных средствах|<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Mockups/Main.png">|
+|Информация о расходах в разделе|<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Mockups/Costs.png">|
+|Добавление новых расходов|<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Mockups/Add.png">|
+|Настрой предпочтений пользователя|<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Mockups/Setting.png">
+
 ## 2.3 Характеристики пользователей
 
 ### 2.3.1 Классы пользователей
