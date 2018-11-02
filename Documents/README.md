@@ -132,7 +132,7 @@ Activity diagram is [here](https://github.com/SlavkaGoldfinch/MoneyHelper/tree/m
 
 
 # 4. Class Diagram <a name = "4"></a>
-<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Documents/Class.png">
+<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Documents/ClassDiagram.png">
 
 
 # 5. State Diagram <a name = "5"></a>
