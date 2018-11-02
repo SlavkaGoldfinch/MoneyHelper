@@ -10,7 +10,10 @@
   1.2.5 [Добавить доходы](#1.2.5) <br>
   1.2.6 [Показать доходы](#1.2.6) <br>
 2. [Activity Diagram](#2) <br>
-3. [States Diagram](#3) <br>
+3. [Secuance Diagram](#3) <br>
+4. [Class Diagram](#4) <br>
+5. [State Diagram](#5) <br>
+6. [Component Diagram](#6) <br>
 
 # 1. Use Case Diagram <a name = "1"></a>
 
@@ -124,6 +127,17 @@ Flow of events:
 Activity diagram is [here](https://github.com/SlavkaGoldfinch/MoneyHelper/tree/master/Documents/Activity%20Diagram)
 
 
-# 4. Sequence Diagram <a name = "3"></a>
+# 3. Sequence Diagram <a name = "3"></a>
 <img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Documents/Sequence%20Diagram/Sequence%20Diagram.png">
 
+
+# 4. Class Diagram <a name = "4"></a>
+<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Documents/Class.png">
+
+
+# 5. State Diagram <a name = "5"></a>
+<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Documents/SostDiagram.png">
+
+
+# 6. Component Diagram <a name = "6"></a>
+<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Documents/StructDiagram.png">
